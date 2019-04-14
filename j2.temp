@@ -1,0 +1,3449 @@
+
+[] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" NOT-HERE-OBJECT-F)] 
+[] 
+[] 
+[18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "ZZZP") 17 ("
+	.PROP 2,P?" DESCFCN "			; INTEGER/CONSTANT PROPERTY
+
+	" 0) 16 ("
+	.PROP " 1 ",P?GLOBAL" "
+        .BYTE " "GLOBAL-OBJECTS") 15 ("
+	.PROP 2,P?" ADVFCN "			; INTEGER/CONSTANT PROPERTY
+
+	" 0) 14 ("
+	.PROP 2,P?" FDESC "			; STRING PROPERTY
+	" "STR?28") 13 ("
+	.PROP 2,P?" LDESC "			; STRING PROPERTY
+	" "STR?29") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "FOOBAR" "
+	" V-WALK) 11 ("
+	.PROP 2,P?" CONTFCN "			; INTEGER/CONSTANT PROPERTY
+
+	" 0) 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[20 ("
+	.PROP 1,P?" IN "
+	.BYTE " ROOMS)] 
+[18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "INTNUM")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ME-F)] 
+[18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "IT" "
+	W?" "THAT")] 
+[18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "DUST" "
+	W?" "DIRT" "
+	W?" "GRIME" "
+	W?" "FILTH")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GROUND-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "FLOOR" "
+	W?" "GROUND" "
+	W?" "LAWN" "
+	W?" "GRASS") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 30000)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HERE-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "ROAD" "
+	W?" "STREET" "
+	W?" "PATH")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" WALLS-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "WALL" "
+	W?" "WALLS")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CEILING-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "CEILING")] 
+[18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "HAND" "
+	W?" "HANDS") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "MY" "
+        .BYTE A?" "BARE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; INTEGER/CONSTANT PROPERTY
+
+	" 0) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "PROTAG") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ME-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "I" "
+	W?" "ME" "
+	W?" "MYSELF")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GLOBAL-ROOM-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "ROOM" "
+	W?" "AREA" "
+	W?" "PLACE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SIGN-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "SIGN" "
+	W?" "SIGNPOST" "
+	W?" "POST" "
+	W?" "MESSAGE") 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "PAINT" "
+        .BYTE A?" "PAINTED" "
+        .BYTE A?" "HANDPAINTED" "
+        .BYTE A?" "NEON")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CORNER-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "CORNER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SOUND-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "SOUND" "
+	W?" "VOICE" "
+	W?" "VOICES" "
+	W?" "MUSIC") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "NOISE" "
+        .BYTE A?" "NOISES")] 
+[18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "SHE" "
+	W?" "HER")] 
+[18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "HE" "
+	W?" "HIM")] 
+[18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "THEY" "
+	W?" "THEM")] 
+[18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "DIRECTION") 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "NORTH" "
+        .BYTE A?" "EAST" "
+        .BYTE A?" "SOUTH" "
+        .BYTE A?" "WEST")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CRISP-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "CRISP" "
+	W?" "BOSS" "
+	W?" "POSTMASTER" "
+	W?" "MAN") 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "MEAN" "
+        .BYTE A?" "OLD" "
+        .BYTE A?" "MR" "
+        .BYTE A?" "MISTER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GRAVEDIGGER-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "GRAVEDIGGER" "
+	W?" "DIGGER" "
+	W?" "MAN") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "OLD" "
+        .BYTE A?" "GRAVE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MACGUFFIN-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "MACGUFFIN" "
+	W?" "MAN") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "SGT" "
+        .BYTE A?" "SERGEANT" "
+        .BYTE A?" "SARGE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" VOSS-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "VOSS" "
+	W?" "WOMAN" "
+	W?" "LADY") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "MISS" "
+        .BYTE A?" "MS")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" VOSS-THINGS-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "BOOKS" "
+	W?" "BOOK" "
+	W?" "PURSE" "
+	W?" "THINGS")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HORSE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "SEAHORSE" "
+	W?" "HORSE") 17 ("
+	.PROP 2,P?" DESCFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" DESCRIBE-HORSE) 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "SEA" "
+        .BYTE A?" "LITTLE" "
+        .BYTE A?" "DYING") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" DHORSE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "SEAHORSE" "
+	W?" "HORSE") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "SEA" "
+        .BYTE A?" "DEAD" "
+        .BYTE A?" "LITTLE") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" PELICAN-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "PELICAN" "
+	W?" "BIRD") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "SLEEPY" "
+        .BYTE A?" "FAT")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" OLD-WOMAN-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "WOMAN" "
+	W?" "LADY") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "OLD")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HILLTOP-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " TUMBLE "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " ENTER-OUTSIDE-COTTAGE "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ENTER-TOWER? "
+	.BYTE 0") 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " OUTSIDE-CEMETERY) 21 ("
+	.PROP 2,P?" DOWN "			; STRING PROPERTY
+	" "STR?164") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-TOWER? "
+	.BYTE 0") 16 ("
+	.PROP " 7 ",P?GLOBAL" "
+        .BYTE " "POST-OFFICE" "
+        .BYTE " "POST-DOOR" "
+        .BYTE " "HILL" "
+        .BYTE " "SIGN" "
+        .BYTE " "TOWER" "
+        .BYTE " "DRAWBRIDGE" "
+        .BYTE " "WINDOW")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HILL-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "HILL" "
+	W?" "HILLTOP") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "POST" "
+        .BYTE A?" "OFFICE" "
+        .BYTE A?" "LOOKOUT")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" POST-OFFICE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "OFFICE" "
+	W?" "BUILDING") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "POST" "
+        .BYTE A?" "LITTLE" "
+        .BYTE A?" "BRICK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" POST-DOOR-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "DOOR" "
+	W?" "ENTRANCE" "
+	W?" "ENTRY" "
+	W?" "LOCK") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "FRONT" "
+        .BYTE A?" "POST" "
+        .BYTE A?" "OFFICE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" INSIDE-POST-OFFICE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " EXIT-POST-OFFICE "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-POST-OFFICE "
+	.BYTE 0") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "POST-OFFICE" "
+        .BYTE " "POST-DOOR") 12 ("
+	.PROP " 8 ",P?PSEUDO" "
+	W?" "POSTCARD" "
+	" POSTCARD-PSEUDO "
+	W?" "LOBBY" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" COUNTER-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "COUNTER") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "SERVICE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" POSTER-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "POSTER") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "WANTED")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" OUTSIDE-CEMETERY-F) 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " HILLTOP) 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " ARE-YOU-SURE? "
+	.BYTE 0") 22 ("
+	.PROP 1,P?" UP "
+	.BYTE " HILLTOP) 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ARE-YOU-SURE? "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "SOUTH-GATE" "
+        .BYTE " "HILL" "
+        .BYTE " "CEMETERY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SOUTH-GATE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "GATE" "
+	W?" "GATES" "
+	W?" "LOCK" "
+	W?" "BARS") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "IRON" "
+        .BYTE A?" "TALL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" OUTSIDE-COTTAGE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " NORTH-PAST-DOG? "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " ENTER-VOSS? "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " WEST-PAST-DOG? "
+	.BYTE 0") 22 ("
+	.PROP 3,P?" UP "
+	.WORD " WEST-PAST-DOG? "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-VOSS? "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "HILL" "
+        .BYTE " "COTTAGE" "
+        .BYTE " "COTTAGE-DOOR")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CANINE-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "POODLE" "
+	W?" "DOG" "
+	W?" "MUTT") 17 ("
+	.PROP 2,P?" DESCFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" DESCRIBE-POOCH) 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "TINY" "
+        .BYTE A?" "SMALL" "
+        .BYTE A?" "LITTLE" "
+        .BYTE A?" "MEAN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CANINE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "HELLHOUND" "
+	W?" "HOUND" "
+	W?" "DOG" "
+	W?" "MUTT") 17 ("
+	.PROP 2,P?" DESCFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" DESCRIBE-POOCH) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "BIG" "
+        .BYTE A?" "LARGE" "
+        .BYTE A?" "HELL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ALEXIS-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "ALEXIS")] 
+[18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "BONE") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "OLD") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" COTTAGE-DOOR-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "DOOR" "
+	W?" "ENTRANCE" "
+	W?" "ENTRY" "
+	W?" "LOCK") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "COTTAGE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" COTTAGE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "COTTAGE" "
+	W?" "HOUSE" "
+	W?" "BUILDING" "
+	W?" "HOME")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" INSIDE-COTTAGE-F) 24 ("
+	.PROP 5,P?" WEST "			; DOOR EXIT
+	.BYTE " OUTSIDE-COTTAGE "				; ROOM NAME
+	.BYTE " COTTAGE-DOOR "			; DOOR NAME" "
+	.WORD 0" "
+	.BYTE 0				; STRING TO PRINT") 19 ("
+	.PROP 5,P?" OUT "			; DOOR EXIT
+	.BYTE " OUTSIDE-COTTAGE "				; ROOM NAME
+	.BYTE " COTTAGE-DOOR "			; DOOR NAME" "
+	.WORD 0" "
+	.BYTE 0				; STRING TO PRINT") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "COTTAGE" "
+        .BYTE " "COTTAGE-DOOR")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BOOKCASE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "BOOKCASE" "
+	W?" "CASE") 17 ("
+	.PROP 2,P?" DESCFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" DESCRIBE-BOOKCASE) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "BOOK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LIBRARY-KEY-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "KEY") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "STEEL") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SCRAWL-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "MESSAGE") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "SCRAWL" "
+        .BYTE A?" "DUST")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BOOKS-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "BOOK" "
+	W?" "BOOKS" "
+	W?" "PHOTOS" "
+	W?" "PHOTOGRAPHS") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "TIMEWORN" "
+        .BYTE A?" "DUSTY" "
+        .BYTE A?" "FADED")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ROTARY-EAST-F) 30 ("
+	.PROP 1,P?" NORTH "
+	.BYTE " ROTARY-NORTH) 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " ENTER-PLEASURE-WHARF "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ENTER-ROTARY-SOUTH "
+	.BYTE 0") 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " PARK) 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-THEATER? "
+	.BYTE 0") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "MOVIE-THEATER" "
+        .BYTE " "ENTRANCE" "
+        .BYTE " "CORNER" "
+        .BYTE " "GLOBBY") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "ROTARY" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MOVIE-THEATER-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "THEATER" "
+	W?" "THEATRE" "
+	W?" "CINEMA" "
+	W?" "BUILDING") 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "MOVIE" "
+        .BYTE A?" "SLEAZY" "
+        .BYTE A?" "CHARMING" "
+        .BYTE A?" "PALACE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MARQUEE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "MARQUEE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ENTRANCE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "ENTRANCE" "
+	W?" "ENTRY" "
+	W?" "DOOR" "
+	W?" "LOCK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TICKET-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "TICKET" "
+	W?" "STUB") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "MOVIE") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LOBBY-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " ENTER-AUDITORIUM? "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-AUDITORIUM? "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-LOBBY "
+	.BYTE 0") 16 ("
+	.PROP " 6 ",P?GLOBAL" "
+        .BYTE " "MOVIE-THEATER" "
+        .BYTE " "ENTRANCE" "
+        .BYTE " "CORNER" "
+        .BYTE " "CORRIDOR" "
+        .BYTE " "GLOBBY" "
+        .BYTE " "SCREEN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GLOBBY-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "LOBBY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CARTON-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "CARTON" "
+	W?" "BOX") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "CARDBOARD")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SCHEDULE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "SCHEDULE" "
+	W?" "LIST" "
+	W?" "SHOWTIMES" "
+	W?" "PRICES") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "ADMISSION" "
+        .BYTE A?" "TIMES")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" INSIDE-THEATER-F) 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " EXIT-AUDITORIUM? "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-AUDITORIUM? "
+	.BYTE 0") 16 ("
+	.PROP " 5 ",P?GLOBAL" "
+        .BYTE " "MOVIE-THEATER" "
+        .BYTE " "CORRIDOR" "
+        .BYTE " "GLOBBY" "
+        .BYTE " "AISLE" "
+        .BYTE " "SCREEN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SEAT-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "SEAT" "
+	W?" "SEATS" "
+	W?" "CHAIR" "
+	W?" "CHAIRS") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" AISLE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "AISLE" "
+	W?" "AISLES")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GLASSES-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "GLASSES" "
+	W?" "SPECTACLES" "
+	W?" "SUNGLASSES" "
+	W?" "PAIR") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "3D" "
+        .BYTE A?" "CHEAP") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SCREEN-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "SCREEN" "
+	W?" "FILM" "
+	W?" "SHOW" "
+	W?" "MOVIE") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "SOUNDTRACK" "
+        .BYTE A?" "IMAGE" "
+        .BYTE A?" "PICTUR")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" PARK-F) 30 ("
+	.PROP 1,P?" NORTH "
+	.BYTE " ROTARY-NORTH) 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " ROTARY-EAST) 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ENTER-ROTARY-SOUTH "
+	.BYTE 0") 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " ROTARY-WEST) 16 ("
+	.PROP " 1 ",P?GLOBAL" "
+        .BYTE " "TREE") 12 ("
+	.PROP " 8 ",P?PSEUDO" "
+	W?" "WALKS" "
+	" HERE-F "
+	W?" "ROTARY" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" FOUNTAIN-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "FOUNTAIN" "
+	W?" "WATER") 11 ("
+	.PROP 2,P?" CONTFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" IN-FOUNTAIN) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 50) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "MARBLE" "
+        .BYTE A?" "SPARKLING" "
+        .BYTE A?" "GREASY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" COIN-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "COIN" "
+	W?" "GOLD" "
+	W?" "MONEY") 14 ("
+	.PROP 2,P?" FDESC "			; INTEGER/CONSTANT PROPERTY
+
+	" 0) 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "GOLD" "
+        .BYTE A?" "PROFILE") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GFISH-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "GOLDFISH" "
+	W?" "FISH") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "GOLD")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GFISH-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "PIRANHA" "
+	W?" "FISH")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" STATUE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "STATUE" "
+	W?" "COMMEMORATION" "
+	W?" "FATHERS" "
+	W?" "WOMAN") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "HEROIC" "
+        .BYTE A?" "FOUNDING")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" FESTERON-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "TOWN" "
+	W?" "VILLAGE" "
+	W?" "CENTER") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "FESTERON" "
+        .BYTE A?" "WITCHVILLE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ROTARY-WEST-F) 30 ("
+	.PROP 1,P?" NORTH "
+	.BYTE " ROTARY-NORTH) 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " PARK) 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ENTER-ROTARY-SOUTH "
+	.BYTE 0") 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " EDGE-OF-LAKE) 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-POLICE-STATION "
+	.BYTE 0") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "POLICE-STATION" "
+        .BYTE " "SIGN" "
+        .BYTE " "POLICE-DOOR" "
+        .BYTE " "CORNER") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "ROTARY" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" POLICE-STATION-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "STATIO" "
+	W?" "HEADQU" "
+	W?" "OFFICE" "
+	W?" "BUILDING") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "POLICE" "
+        .BYTE A?" "FRONT")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" POLICE-DOOR-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "DOOR" "
+	W?" "ENTRANCE" "
+	W?" "ENTRY" "
+	W?" "LOCK") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "POLICE" "
+        .BYTE A?" "STATIO")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" INSIDE-POLICE-STATION-F) 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-STATION? "
+	.BYTE 0") 16 ("
+	.PROP " 5 ",P?GLOBAL" "
+        .BYTE " "POLICE-STATION" "
+        .BYTE " "CELL" "
+        .BYTE " "CELL-DOOR" "
+        .BYTE " "POLICE-DOOR" "
+        .BYTE " "CORNER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" DESK-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "DESK" "
+	W?" "DRAWER") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 25) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "INTIMIDATINGLY" "
+        .BYTE A?" "TALL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" RADIO-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "RADIO") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "POLICE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CHOCOLATE-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "CHOCOLATE" "
+	W?" "PIECE" "
+	W?" "CANDY") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "CHOCOLATE" "
+        .BYTE A?" "CREAMY" "
+        .BYTE A?" "DELICIOUS") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ROTARY-SOUTH-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " TO-NORTH "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " TO-EAST "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ENTER-OUTSIDE-COTTAGE "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " TO-WEST "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-LIBRARY? "
+	.BYTE 0") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "LIBRARY" "
+        .BYTE " "LIBRARY-DOOR") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "ROTARY" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LIBRARY-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "LIBRARY" "
+	W?" "BUILDING") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "FREE" "
+        .BYTE A?" "PUBLIC")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LIBRARY-DOOR-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "DOOR" "
+	W?" "ENTRANCE" "
+	W?" "ENTRY" "
+	W?" "LOCK") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "LIBRARY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" VIOLET-NOTE-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "NOTE" "
+	W?" "PAPER" "
+	W?" "SLIP") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "VIOLET" "
+        .BYTE A?" "PURPLE" "
+        .BYTE A?" "PALE") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CIRCULATION-DESK-F) 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ENTER-MUSEUM "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-MUSEUM "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-DESK "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "LIBRARY" "
+        .BYTE " "LIBRARY-DOOR" "
+        .BYTE " "GMUSEUM")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CDESK-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "DESK") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 25) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "CIRCUL" "
+        .BYTE A?" "LARGE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GMUSEUM-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "MUSEUM" "
+	W?" "HALL") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "DARK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CLUTTER-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "BOOKS" "
+	W?" "BOOK") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "CLUTTER" "
+        .BYTE A?" "PILE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MUSEUM-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " EXIT-MUSEUM "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-MUSEUM "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "LIBRARY" "
+        .BYTE " "GMUSEUM" "
+        .BYTE " "SIGN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" EXHIBITS-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "EXHIBIT" "
+	W?" "DISPLAY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" FOSSIL-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "FOSSIL" "
+	W?" "MAILBOX" "
+	W?" "BOXES" "
+	W?" "EXHIBIT") 11 ("
+	.PROP 2,P?" CONTFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" IN-FOSSIL) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 100) 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "LARGE" "
+        .BYTE A?" "SMALL" "
+        .BYTE A?" "RIBS" "
+        .BYTE A?" "BONES")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" DCASE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "CASE") 11 ("
+	.PROP 2,P?" CONTFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" IN-DCASE) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "DISPLAY" "
+        .BYTE A?" "GLASS")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SCULPTURE-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "SCULPTURE" "
+	W?" "HOLE" "
+	W?" "CHAOS") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "BLACK" "
+        .BYTE A?" "MARBLE" "
+        .BYTE A?" "FOREHEAD" "
+        .BYTE A?" "HEAD") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" EVIL-ONE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "ONE" "
+	W?" "WOMAN" "
+	W?" "LADY" "
+	W?" "BEING") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "EVIL" "
+        .BYTE A?" "OLD" "
+        .BYTE A?" "WITCH")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ROTARY-NORTH-F) 30 ("
+	.PROP 1,P?" NORTH "
+	.BYTE " SOUTH-OF-BRIDGE) 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " ROTARY-EAST) 26 ("
+	.PROP 1,P?" SOUTH "
+	.BYTE " PARK) 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " ROTARY-WEST) 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-CHURCH "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "CHURCH" "
+        .BYTE " "CHURCH-DOOR" "
+        .BYTE " "WINDOW") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "ROTARY" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" INSIDE-CHURCH-F) 19 ("
+	.PROP 5,P?" OUT "			; DOOR EXIT
+	.BYTE " ROTARY-NORTH "				; ROOM NAME
+	.BYTE " CHURCH-DOOR "			; DOOR NAME" "
+	.WORD 0" "
+	.BYTE 0				; STRING TO PRINT") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "CHURCH" "
+        .BYTE " "CHURCH-DOOR" "
+        .BYTE " "WINDOW" "
+        .BYTE " "AISLE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SPEAKER-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "SPEAKER" "
+	W?" "LOUDSPEAKER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CANDLE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "CANDLE" "
+	W?" "LIGHT") 14 ("
+	.PROP 2,P?" FDESC "			; STRING PROPERTY
+	" "STR?196") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "LIGHTED" "
+        .BYTE A?" "LIT") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "DOOR" "
+	W?" "ENTRANCE" "
+	W?" "ENTRY" "
+	W?" "LOCK") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "CHURCH")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CHURCH-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "CHURCH" "
+	W?" "BUILDING" "
+	W?" "TEMPLE" "
+	W?" "SYNAGO") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "BROKEN" "
+        .BYTE A?" "OLD")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CDEBRIS-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "DEBRIS" "
+	W?" "GLASS" "
+	W?" "BITS") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "COLORED" "
+        .BYTE A?" "BROKEN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" JAIL-CELL-F) 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " THROUGH-HATCH? "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " THROUGH-HATCH? "
+	.BYTE 0") 19 ("
+	.PROP 2,P?" OUT "			; STRING PROPERTY
+	" "STR?198") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "POLICE-STATION" "
+        .BYTE " "CELL" "
+        .BYTE " "CELL-DOOR" "
+        .BYTE " "HIDDEN-HATCH")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CELL-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "CELL" "
+	W?" "CELLS") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "JAIL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CELL-DOOR-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "DOOR" "
+	W?" "BARS" "
+	W?" "LOCK") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "CELL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BUNK-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "BUNK" "
+	W?" "BED" "
+	W?" "FURNITURE") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 25) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "FLIMSY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BLANKET-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "BLANKET") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "THICK") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HIDDEN-HATCH-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "HOLE" "
+	W?" "CEMENT" "
+	W?" "CONCRETE" "
+	W?" "OPENING") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "DARK" "
+        .BYTE A?" "NARROW")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" PBUNK-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "BUNK" "
+	W?" "BED" "
+	W?" "UNDERSIDE" "
+	W?" "BOTTOM") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "FLIMSY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ISLE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "ISLAND" "
+	W?" "ISLE" "
+	W?" "MIST" "
+	W?" "FOG") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "MISTY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" EDGE-OF-LAKE-F) 30 ("
+	.PROP 1,P?" NORTH "
+	.BYTE " RIVER-OUTLET) 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " ROTARY-WEST) 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ARE-YOU-SURE? "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " ENTER-PIT? "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-PIT? "
+	.BYTE 0") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "LAKE" "
+        .BYTE " "NORTH-GATE" "
+        .BYTE " "ISLE" "
+        .BYTE " "CEMETERY") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "SHORE" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LAKE-SAND-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "SAND" "
+	W?" "MESSAGE" "
+	W?" "TRACKS" "
+	W?" "X") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "SCRAWL" "
+        .BYTE A?" "ANIMAL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" PIT-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "PIT" "
+	W?" "HOLE" "
+	W?" "TRAP" "
+	W?" "SNARE") 11 ("
+	.PROP 2,P?" CONTFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" IN-PIT) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 25) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "DEEP" "
+        .BYTE A?" "NARROW")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LEAVES-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "LEAVES") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "PATCH" "
+        .BYTE A?" "PILE" "
+        .BYTE A?" "CIRCUL" "
+        .BYTE A?" "ROUND") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" PLATYPUS-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "PLATYPUS" "
+	W?" "TASMANIA") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "PRINCESS") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" RIVER-OUTLET-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " PROBABLY-DROWN-IN-RIVER "
+	.BYTE 0") 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " SOUTH-OF-BRIDGE) 26 ("
+	.PROP 1,P?" SOUTH "
+	.BYTE " EDGE-OF-LAKE) 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 22 ("
+	.PROP 1,P?" UP "
+	.BYTE " LOOKOUT-HILL) 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "LAKE" "
+        .BYTE " "RIVER" "
+        .BYTE " "HILL" "
+        .BYTE " "TRAIL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TRAIL-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "TRAIL") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "STEEP" "
+        .BYTE A?" "NARROW" "
+        .BYTE A?" "SHIMMERING")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LOOKOUT-HILL-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " NORTH-DOWN-HILL "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " TUMBLE "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " TUMBLE "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " TUMBLE "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " DOWN-THE-HILL "
+	.BYTE 0") 20 ("
+	.PROP 5,P?" IN "			; DOOR EXIT
+	.BYTE " UNDER-HILL "				; ROOM NAME
+	.BYTE " STUMP "			; DOOR NAME" "
+	.WORD 0" "
+	.BYTE 0				; STRING TO PRINT") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "TRAIL" "
+        .BYTE " "HILL" "
+        .BYTE " "HOLE" "
+        .BYTE " "STUMP")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" STUMP-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "STUMP" "
+	W?" "UNDERSIDE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SHOE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "HORSESHOE" "
+	W?" "SHOE") 14 ("
+	.PROP 2,P?" FDESC "			; STRING PROPERTY
+	" "STR?205") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LAKE-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "LAKE" "
+	W?" "POND" "
+	W?" "WATER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" PLEASURE-WHARF-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " ENTER-POOL? "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " ENTER-WHARF "
+	.BYTE 0") 26 ("
+	.PROP 1,P?" SOUTH "
+	.BYTE " VIDEO-ARCADE) 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " ROTARY-EAST) 20 ("
+	.PROP 1,P?" IN "
+	.BYTE " VIDEO-ARCADE) 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "BAY" "
+        .BYTE " "ARCADE" "
+        .BYTE " "SIGN" "
+        .BYTE " "SAND") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "WHARF" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" WHARF-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " FALL-OFF-WHARF "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " FALL-OFF-WHARF "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " FALL-OFF-WHARF "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " ENTER-PLEASURE-WHARF "
+	.BYTE 0") 16 ("
+	.PROP " 1 ",P?GLOBAL" "
+        .BYTE " "BAY") 12 ("
+	.PROP " 8 ",P?PSEUDO" "
+	W?" "PLANKS" "
+	" HERE-F "
+	W?" "WHARF" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SHARKS-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "SHARK" "
+	W?" "SHARKS" "
+	W?" "FIN" "
+	W?" "FINS") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "BLACK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BAY-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "BAY" "
+	W?" "SEA" "
+	W?" "OCEAN" "
+	W?" "WATER") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "FESTERON")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" VIDEO-ARCADE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " EXIT-ARCADE "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-ARCADE "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "ARCADE" "
+        .BYTE " "SIGN" "
+        .BYTE " "CORNER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ARCADE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "ARCADE" "
+	W?" "BUILDING" "
+	W?" "ENTRANCE" "
+	W?" "ENTRY") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "VIDEO" "
+        .BYTE A?" "OLD" "
+        .BYTE A?" "RAMSHACKLE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HUMANOIDS-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "HUMANOIDS") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "STUNTED")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MACHINE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "MACHINE" "
+	W?" "UNIT" "
+	W?" "GAME" "
+	W?" "LOGO") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 5 ",P?ADJECTIVE" "
+        .BYTE A?" "GAME" "
+        .BYTE A?" "ARCADE" "
+        .BYTE A?" "VIDEO" "
+        .BYTE A?" "SIDES" "
+        .BYTE A?" "BROKEN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" VIDEO-SCREEN-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "SCREEN" "
+	W?" "GRID" "
+	W?" "MAP" "
+	W?" "MESSAGE") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "VIDEO" "
+        .BYTE A?" "FLASHING" "
+        .BYTE A?" "DIAMOND")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" STAR-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "STAR" "
+	W?" "CURSOR") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "BLINKING")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SLOT-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "SLOT") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "NARROW")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" JOYSTICK-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "JOYSTICK" "
+	W?" "STICK") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "JOY" "
+        .BYTE A?" "CONTROL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BUTTON-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "BUTTON" "
+	W?" "SWITCH") 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "BIG" "
+        .BYTE A?" "RED" "
+        .BYTE A?" "LARGE" "
+        .BYTE A?" "CRIMSON")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TOKEN-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "TOKEN") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "BRASS") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TIDAL-POOL-F) 30 ("
+	.PROP 1,P?" NORTH "
+	.BYTE " FESTERON-POINT) 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 26 ("
+	.PROP 1,P?" SOUTH "
+	.BYTE " PLEASURE-WHARF) 24 ("
+	.PROP 2,P?" WEST "			; STRING PROPERTY
+	" "STR?221") 21 ("
+	.PROP 2,P?" DOWN "			; STRING PROPERTY
+	" "STR?221") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "BAY" "
+        .BYTE " "SAND")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CONCH-SHELL-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "SHELL") 14 ("
+	.PROP 2,P?" FDESC "			; STRING PROPERTY
+	" "STR?222") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "CONCH" "
+        .BYTE A?" "ADVICE") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SAND-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "SAND" "
+	W?" "BEACH" "
+	W?" "BANK") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" FESTERON-POINT-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " PROBABLY-DROWN-IN-RIVER "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ENTER-POOL? "
+	.BYTE 0") 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " ROCKY-PATH) 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "BAY" "
+        .BYTE " "RIVER" "
+        .BYTE " "SAND")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LIGHTHOUSE-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "LIGHTHOUSE" "
+	W?" "HOUSE" "
+	W?" "BEACON") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 5 ",P?ADJECTIVE" "
+        .BYTE A?" "MINIATURE" "
+        .BYTE A?" "MINI" "
+        .BYTE A?" "AUTOMATIC" "
+        .BYTE A?" "AUTO" "
+        .BYTE A?" "BROKEN")] 
+[30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " BACK-TO-ROCKY-PATH "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " BOARDS-ARE-SECURE "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " UNWILLING-TO-MOVE "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " UNWILLING-TO-MOVE "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " BOARDS-ARE-SECURE "
+	.BYTE 0") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "TREE" "
+        .BYTE " "TRAIL") 13 ("
+	.PROP 2,P?" LDESC "			; STRING PROPERTY
+	" "STR?230")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" WHITE-HOUSE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "HOUSE") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "WHITE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HOUSE-DOOR-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "DOOR" "
+	W?" "ENTRANCE" "
+	W?" "ENTRY" "
+	W?" "BOARDS") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "FRONT" "
+        .BYTE A?" "BOARDED")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LEAFLET-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "LEAFLET" "
+	W?" "MAIL" "
+	W?" "ADVERT" "
+	W?" "AD") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 5 ",P?ADJECTIVE" "
+        .BYTE A?" "JUNK-MAIL" "
+        .BYTE A?" "CANCEL" "
+        .BYTE A?" "JUNK" "
+        .BYTE A?" "STAMPED" "
+        .BYTE A?" "STAMP") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ROCKY-PATH-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " FESTERON-POINT) 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ENTER-HOUSE? "
+	.BYTE 0") 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " SOUTH-OF-BRIDGE) 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "RIVER" "
+        .BYTE " "TREE" "
+        .BYTE " "TRAIL") 12 ("
+	.PROP " 8 ",P?PSEUDO" "
+	W?" "FOREST" "
+	" FOREST-PSEUDO "
+	W?" "WOODS" "
+	" FOREST-PSEUDO)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" RIVER-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "RIVER" "
+	W?" "WATER") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "FESTERON" "
+        .BYTE A?" "WITCHVILLE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SOUTH-OF-BRIDGE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " GO-ON-BRIDGE "
+	.BYTE 0") 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " ROCKY-PATH) 26 ("
+	.PROP 1,P?" SOUTH "
+	.BYTE " ROTARY-NORTH) 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " RIVER-OUTLET) 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "RIVER" "
+        .BYTE " "BRIDGE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ON-BRIDGE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " OFF-BRIDGE "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 26 ("
+	.PROP 1,P?" SOUTH "
+	.BYTE " SOUTH-OF-BRIDGE) 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "RIVER" "
+        .BYTE " "BRIDGE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BRIDGE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "BRIDGE") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "COVERED")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BRIDGE-SIGN-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "SIGN" "
+	W?" "ARCH") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "BIG")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" NORTH-OF-BRIDGE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " BUMP-CLIFF "
+	.BYTE 0") 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " CLIFF-BOTTOM) 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " ENTER-BRIDGE? "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " BUMP-CLIFF "
+	.BYTE 0") 22 ("
+	.PROP 2,P?" UP "			; STRING PROPERTY
+	" "STR?233") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-BRIDGE? "
+	.BYTE 0") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "BRIDGE" "
+        .BYTE " "RIVER" "
+        .BYTE " "CLIFF" "
+        .BYTE " "SIGN") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "SHORE" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TROLL-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "TROLL" "
+	W?" "CREATURE") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "UGLY" "
+        .BYTE A?" "GNOMELIKE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TOLL-GATE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "GATE") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "TOLL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CLIFF-BOTTOM-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " BUMP-CLIFF "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " BUMP-CLIFF "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " LIFT-VULTURE "
+	.BYTE 0") 22 ("
+	.PROP 3,P?" UP "
+	.WORD " ENTER-TRAIL? "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " BUMP-CLIFF "
+	.BYTE 0") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "RIVER" "
+        .BYTE " "SAND" "
+        .BYTE " "CLIFF" "
+        .BYTE " "TRAIL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CLIFF-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "CLIFF" "
+	W?" "WALL" "
+	W?" "FACE") 8 ("
+	.PROP " 5 ",P?ADJECTIVE" "
+        .BYTE A?" "SHEER" "
+        .BYTE A?" "ROCK" "
+        .BYTE A?" "ROCKY" "
+        .BYTE A?" "STEEP" "
+        .BYTE A?" "FEATURELESS")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BRANCH-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "BRANCH") 17 ("
+	.PROP 2,P?" DESCFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" DESCRIBE-BRANCH) 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 23) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "LONE" "
+        .BYTE A?" "HORIZONTAL" "
+        .BYTE A?" "DEAD") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" VULTURE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "VULTURE" "
+	W?" "BIRD")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GNARLED-TREE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "TRUNK" "
+	W?" "TREE") 17 ("
+	.PROP 2,P?" DESCFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" DESCRIBE-TREE) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "GNARLED" "
+        .BYTE A?" "OLD" "
+        .BYTE A?" "DEAD")] 
+[30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " N-TRAIL "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " E-TRAIL "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " S-TRAIL "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " W-TRAIL "
+	.BYTE 0") 22 ("
+	.PROP 3,P?" UP "
+	.WORD " U-TRAIL "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " D-TRAIL "
+	.BYTE 0") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "TRAIL" "
+        .BYTE " "CLIFF") 13 ("
+	.PROP 2,P?" LDESC "			; STRING PROPERTY
+	" "STR?248") 12 ("
+	.PROP " 8 ",P?PSEUDO" "
+	W?" "FOG" "
+	" FOG-PSEUDO "
+	W?" "CLOUD" "
+	" FOG-PSEUDO)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" STEEP-TRAIL-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " N-TRAIL "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " E-TRAIL "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " S-TRAIL "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " W-TRAIL "
+	.BYTE 0") 22 ("
+	.PROP 3,P?" UP "
+	.WORD " U-TRAIL "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " D-TRAIL "
+	.BYTE 0") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "TRAIL" "
+        .BYTE " "CLIFF")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CLIFF-EDGE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " BUMP-CLIFF "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " TUMBLE "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " TUMBLE "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " ENTER-SHOPPE "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " ENTER-FOG? "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-SHOPPE "
+	.BYTE 0") 16 ("
+	.PROP " 8 ",P?GLOBAL" "
+        .BYTE " "CLIFF" "
+        .BYTE " "MAGICK-SHOPPE" "
+        .BYTE " "SHOPPE-DOOR" "
+        .BYTE " "TOWER" "
+        .BYTE " "SIGN" "
+        .BYTE " "POST-OFFICE" "
+        .BYTE " "TRAIL" "
+        .BYTE " "HILL") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "FOG" "
+	" CLIFF-FOG-PSEUDO)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MAGICK-SHOPPE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "SHOPPE" "
+	W?" "SHOP" "
+	W?" "STORE" "
+	W?" "BUILDING") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "MAGICK" "
+        .BYTE A?" "MAGIC")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SHOPPE-DOOR-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "DOOR" "
+	W?" "ENTRANCE" "
+	W?" "ENTRY" "
+	W?" "LOCK") 8 ("
+	.PROP " 5 ",P?ADJECTIVE" "
+        .BYTE A?" "FRONT" "
+        .BYTE A?" "SHOPPE" "
+        .BYTE A?" "SHOP" "
+        .BYTE A?" "MAGICK" "
+        .BYTE A?" "MAGIC")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" INSIDE-SHOPPE-F) 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " MOBILE? "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " APPROACH-CURTAIN "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " APPROACH-CURTAIN "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " MOBILE? "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "MAGICK-SHOPPE" "
+        .BYTE " "SHOPPE-DOOR" "
+        .BYTE " "CORNER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CLOCK-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "CLOCK" "
+	W?" "MOON" "
+	W?" "TIME" "
+	W?" "DIAL") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "GRANDFATHER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" STOCK-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "TRICK" "
+	W?" "TRICKS" "
+	W?" "PUZZLE" "
+	W?" "PARAPH") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "MAGIC" "
+        .BYTE A?" "MYSTIC")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" NAUGHTY-STOCK-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "JOKE" "
+	W?" "JOKES" "
+	W?" "CARD" "
+	W?" "CARDS") 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "OBSCENE" "
+        .BYTE A?" "PRACTICAL" "
+        .BYTE A?" "NAUGHTY" "
+        .BYTE A?" "BIRTHDAY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GLASS-CASE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "CASE") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 25) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "GLASS")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CURTAIN-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "CURTAIN") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "DARK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ENVELOPE-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "ENVELOPE" "
+	W?" "MAIL" "
+	W?" "LETTER") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "MYSTERIOUS") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" OPEN-ENVELOPE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "ENVELOPE") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "MYSTERIOUS") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" RANSOM-LETTER-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "LETTER" "
+	W?" "MAIL") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "RANSOM") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SNAKE-CAN-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "CAN" "
+	W?" "NUTS" "
+	W?" "LID") 11 ("
+	.PROP 2,P?" CONTFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" IN-CAN) 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 5 ",P?ADJECTIVE" "
+        .BYTE A?" "METAL" "
+        .BYTE A?" "SMALL" "
+        .BYTE A?" "LITTLE" "
+        .BYTE A?" "TRINKET" "
+        .BYTE A?" "GIFT") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SQUASHED-CAN-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "CAN" "
+	W?" "NUTS" "
+	W?" "LID") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "METAL" "
+        .BYTE A?" "SMALL" "
+        .BYTE A?" "FLAT" "
+        .BYTE A?" "SQUASH") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CAN-BOTTOM-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "BOTTOM") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "FALSE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CHAOS-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "CHAOS" "
+	W?" "CAT" "
+	W?" "KITTY" "
+	W?" "PUSSY") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "BLACK") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CREEPY-CORNER-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " ENTER-SPOOKY-COPSE "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " EXIT-TO-OUTSIDE "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " TOMBS-BLOCK "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " TOMBS-BLOCK "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-TO-OUTSIDE "
+	.BYTE 0") 16 ("
+	.PROP " 6 ",P?GLOBAL" "
+        .BYTE " "MONUMENTS" "
+        .BYTE " "TREE" "
+        .BYTE " "VAPORS" "
+        .BYTE " "SOUTH-GATE" "
+        .BYTE " "CORNER" "
+        .BYTE " "CEMETERY") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "LANE" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SPOOKY-COPSE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " TOMBS-BLOCK "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " TOMBS-BLOCK "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " COPSE-TO-CORNER "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " COPSE-TO-GLEN "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " ENTER-GRAVE "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-GRAVE "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "MONUMENTS" "
+        .BYTE " "VAPORS" "
+        .BYTE " "CEMETERY") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "LANE" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TWILIGHT-GLEN-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " EXIT-TO-LAKE "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " RETURN-TO-COPSE "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " TOMBS-BLOCK "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " TOMBS-BLOCK "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-TO-LAKE "
+	.BYTE 0") 16 ("
+	.PROP " 5 ",P?GLOBAL" "
+        .BYTE " "MONUMENTS" "
+        .BYTE " "TREE" "
+        .BYTE " "VAPORS" "
+        .BYTE " "NORTH-GATE" "
+        .BYTE " "CEMETERY") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "LANE" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" NORTH-GATE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "GATE" "
+	W?" "GATES" "
+	W?" "LOCK" "
+	W?" "BARS") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "IRON" "
+        .BYTE A?" "TALL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" INSIDE-GRAVE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " ENTER-HOLE? "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " WALL-OF-DIRT "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " WALL-OF-DIRT "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " WALL-OF-DIRT "
+	.BYTE 0") 22 ("
+	.PROP 3,P?" UP "
+	.WORD " GRAVE-TO-COPSE "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " ENTER-HOLE? "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-HOLE? "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " GRAVE-TO-COPSE "
+	.BYTE 0") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "HOLE" "
+        .BYTE " "VAPORS") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "DIRT" "
+	" WALLS-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CEMETERY-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "CEMETERY" "
+	W?" "GRAVEYARD") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "FESTERON")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MONUMENTS-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "STONES" "
+	W?" "STONE" "
+	W?" "TOMBSTONES" "
+	W?" "MONUMENTS") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "TOMB" "
+        .BYTE A?" "TOMBS")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" OPEN-GRAVE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "GRAVE" "
+	W?" "HOLE") 11 ("
+	.PROP 2,P?" CONTFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" IN-OPEN-GRAVE) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 50) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "OPEN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GRAVE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "GRAVE" "
+	W?" "HOLE") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 50) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "OPEN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" WILLOWS-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "TREE" "
+	W?" "TREES" "
+	W?" "BOUGH" "
+	W?" "BOUGHS") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "WILLOW")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" VAPORS-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "VAPOR" "
+	W?" "VAPORS" "
+	W?" "MIST" "
+	W?" "MISTS") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "ELDRITCH" "
+        .BYTE A?" "RIBBON" "
+        .BYTE A?" "GHOSTLY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HOLE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "HOLE" "
+	W?" "OPENING") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "DARK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" UMBRELLA-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "UMBRELLA" "
+	W?" "HANDLE" "
+	W?" "HEAD") 14 ("
+	.PROP 2,P?" FDESC "			; STRING PROPERTY
+	" "STR?292") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "PARROT") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TREE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "TREE" "
+	W?" "TREES")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TUNNEL-FORK-F) 30 ("
+	.PROP 1,P?" NORTH "
+	.BYTE " UNDER-HILL) 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " UNDER-CELL) 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " INTO-GRAVE "
+	.BYTE 0") 20 ("
+	.PROP 2,P?" IN "			; STRING PROPERTY
+	" "STR?294") 19 ("
+	.PROP 2,P?" OUT "			; STRING PROPERTY
+	" "STR?295") 16 ("
+	.PROP " 1 ",P?GLOBAL" "
+        .BYTE " "HOLE") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "TUNNEL" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TUNNEL-CORNER-F) 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " ENTER-GRUE-NEST "
+	.BYTE 0") 26 ("
+	.PROP 1,P?" SOUTH "
+	.BYTE " UNDER-CELL) 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " UNDER-HILL) 19 ("
+	.PROP 2,P?" OUT "			; STRING PROPERTY
+	" "STR?295") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "TUNNEL" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" UNDER-HILL-F) 28 ("
+	.PROP 1,P?" EAST "
+	.BYTE " TUNNEL-CORNER) 26 ("
+	.PROP 1,P?" SOUTH "
+	.BYTE " TUNNEL-FORK) 22 ("
+	.PROP 5,P?" UP "			; DOOR EXIT
+	.BYTE " LOOKOUT-HILL "				; ROOM NAME
+	.BYTE " STUMP "			; DOOR NAME" "
+	.WORD 0" "
+	.BYTE 0				; STRING TO PRINT") 19 ("
+	.PROP 2,P?" OUT "			; STRING PROPERTY
+	" "STR?295") 16 ("
+	.PROP " 1 ",P?GLOBAL" "
+        .BYTE " "STUMP") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "TUNNEL" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" GRUE-NEST-F) 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " EXIT-NEST "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-NEST "
+	.BYTE 0") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "SIGN" "
+        .BYTE " "CORNER") 12 ("
+	.PROP " 8 ",P?PSEUDO" "
+	W?" "TUNNEL" "
+	" HERE-F "
+	W?" "NEST" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BABY-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "BEAST" "
+	W?" "ANIMAL" "
+	W?" "GRUE" "
+	W?" "GRUB") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "LITTLE" "
+        .BYTE A?" "BABY" "
+        .BYTE A?" "SLEEPING" "
+        .BYTE A?" "SMALL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" REFRIGERATOR-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "REFRIGERATOR" "
+	W?" "FRIGE" "
+	W?" "FRIDGE") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "GRUE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BOTTLE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "BOTTLE") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "MILK") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MILK-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "MILK" "
+	W?" "LIQUID") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "GRUE" "
+        .BYTE A?" "LITTLE" "
+        .BYTE A?" "ICKY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" WORM-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "WORM" "
+	W?" "EARTHWORM") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "EARTH" "
+        .BYTE A?" "WORMS") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" DEBRIS-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "DEBRIS" "
+	W?" "BONE" "
+	W?" "SWORDS" "
+	W?" "BONES") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "SWORD" "
+        .BYTE A?" "ELVISH")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" UNDER-CELL-F) 30 ("
+	.PROP 1,P?" NORTH "
+	.BYTE " TUNNEL-CORNER) 24 ("
+	.PROP 1,P?" WEST "
+	.BYTE " TUNNEL-FORK) 22 ("
+	.PROP 3,P?" UP "
+	.WORD " THROUGH-HATCH? "
+	.BYTE 0") 19 ("
+	.PROP 2,P?" OUT "			; STRING PROPERTY
+	" "STR?295") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "CELL" "
+        .BYTE " "HIDDEN-HATCH") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "TUNNEL" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TOWER-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "TOWER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" DRAWBRIDGE-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "DRAWBRIDGE" "
+	W?" "BRIDGE" "
+	W?" "WALKWAY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MOAT-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "MOAT" "
+	W?" "WATER") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 200) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "DEEP")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" STAIRWAY-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "STAIRWAY" "
+	W?" "STAIRS" "
+	W?" "STAIR" "
+	W?" "STEPS") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 100) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "DAMP")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ROUND-CHAMBER-F) 30 ("
+	.PROP 1,P?" NORTH "
+	.BYTE " VESTIBULE) 22 ("
+	.PROP 3,P?" UP "
+	.WORD " ENTER-LAB "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " DOWN-LADDER? "
+	.BYTE 0") 19 ("
+	.PROP 1,P?" OUT "
+	.BYTE " VESTIBULE) 16 ("
+	.PROP " 5 ",P?GLOBAL" "
+        .BYTE " "TOWER" "
+        .BYTE " "CORRIDOR" "
+        .BYTE " "STAIRWAY" "
+        .BYTE " "HATCH" "
+        .BYTE " "LADDER") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "CHAMBER" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ART-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "PAINTING" "
+	W?" "PICTUR" "
+	W?" "SERIES" "
+	W?" "SEQUENCE") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "ART" "
+        .BYTE A?" "PRINCESS" "
+        .BYTE A?" "QUEEN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CRANK-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "CRANK") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "METAL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CORRIDOR-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "HALL" "
+	W?" "HALLWAY" "
+	W?" "CORRIDOR" "
+	W?" "ENTRANCE") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "SHORT" "
+        .BYTE A?" "DARK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" VESTIBULE-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " EXIT-TOWER? "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " INTO-ROUND-CHAMBER "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " INTO-ROUND-CHAMBER "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-TOWER? "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "TOWER" "
+        .BYTE " "DRAWBRIDGE" "
+        .BYTE " "CORRIDOR") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "VESTIBULE" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HATCH-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "HATCH" "
+	W?" "HATCHWAY" "
+	W?" "DOOR") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "MASSIVE" "
+        .BYTE A?" "OAK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LADDER-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "LADDER") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "WOOD" "
+        .BYTE A?" "WOODEN")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TORTURE-CHAMBER-F) 22 ("
+	.PROP 3,P?" UP "
+	.WORD " EXIT-TORTURE? "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-TORTURE? "
+	.BYTE 0") 16 ("
+	.PROP " 3 ",P?GLOBAL" "
+        .BYTE " "TOWER" "
+        .BYTE " "HATCH" "
+        .BYTE " "LADDER") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "CHAMBER" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" INSTRUMENTS-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "INSTRUMENTS") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "OBSCURE" "
+        .BYTE A?" "MEDICAL" "
+        .BYTE A?" "TORTURE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CHAINS-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "CHAIN" "
+	W?" "CHAINS" "
+	W?" "SHACKLES" "
+	W?" "BONDS") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "HEAVY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" COAT-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "COAT" "
+	W?" "JACKET" "
+	W?" "SMOCK") 11 ("
+	.PROP 2,P?" CONTFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" IN-COAT) 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 2) 8 ("
+	.PROP " 6 ",P?ADJECTIVE" "
+        .BYTE A?" "WHITE" "
+        .BYTE A?" "POCKET" "
+        .BYTE A?" "LAB" "
+        .BYTE A?" "LABORA" "
+        .BYTE A?" "DIRTY" "
+        .BYTE A?" "COLLAR") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" KEY-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "KEY") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "RUSTY" "
+        .BYTE A?" "RUSTED") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" TMACHINE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "MACHINE" "
+	W?" "MECHANISM" "
+	W?" "CLAMP" "
+	W?" "CLAMPS") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 20) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "TORTURE" "
+        .BYTE A?" "DIABOLICAL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LEVER-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "LEVER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" FUZZY-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " TOO-FUZZY "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " TOO-FUZZY "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " TOO-FUZZY "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " TOO-FUZZY "
+	.BYTE 0") 22 ("
+	.PROP 3,P?" UP "
+	.WORD " TOO-FUZZY "
+	.BYTE 0") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " TOO-FUZZY "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " TOO-FUZZY "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " TOO-FUZZY "
+	.BYTE 0")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LABORATORY-F) 30 ("
+	.PROP 2,P?" NORTH "			; STRING PROPERTY
+	" "STR?318") 21 ("
+	.PROP 3,P?" DOWN "
+	.WORD " EXIT-LAB "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-LAB "
+	.BYTE 0") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "TOWER" "
+        .BYTE " "STAIRWAY" "
+        .BYTE " "WINDOW" "
+        .BYTE " "FESTERON") 12 ("
+	.PROP " 8 ",P?PSEUDO" "
+	W?" "LABORA" "
+	" HERE-F "
+	W?" "LAB" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SCOPE-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "TELESCOPE" "
+	W?" "SCOPE") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "ANTIQUE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" WINDOW-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "WINDOW") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "DARK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" KITTY-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "CAT" "
+	W?" "KITTY" "
+	W?" "KITTEN") 17 ("
+	.PROP 2,P?" DESCFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" DESCRIBE-KITTY) 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "BLACK" "
+        .BYTE A?" "SLEEPING") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CHEMICALS-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "CHEMICALS" "
+	W?" "ICE" "
+	W?" "WATER") 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "BUBBLING" "
+        .BYTE A?" "FLOATING" "
+        .BYTE A?" "DRY" "
+        .BYTE A?" "WARM")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" PANEL-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "PANEL") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "CONTROL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SW2-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "SWITCH") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "SECOND" "
+        .BYTE A?" "LARGE" "
+        .BYTE A?" "SECURITY")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SW1-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "SWITCH") 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "FIRST" "
+        .BYTE A?" "LARGE" "
+        .BYTE A?" "PALACE" "
+        .BYTE A?" "THEATER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" BROOM-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "BROOM" "
+	W?" "BROOMSTICK") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 20) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 0)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" WHISTLE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "WHISTLE") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "SILVER") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 3)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ISLAND-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " BUMP-CLIFF "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " PROBABLY-DROWN "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " BUMP-CLIFF "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " ENTER-THRONE-ROOM "
+	.BYTE 0") 20 ("
+	.PROP 3,P?" IN "
+	.WORD " ENTER-THRONE-ROOM "
+	.BYTE 0") 16 ("
+	.PROP " 4 ",P?GLOBAL" "
+        .BYTE " "CASTLE" "
+        .BYTE " "CLIFF" "
+        .BYTE " "LAKE" "
+        .BYTE " "ISLE") 12 ("
+	.PROP " 4 ",P?PSEUDO" "
+	W?" "BEACH" "
+	" HERE-F)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" THRONE-ROOM-F) 30 ("
+	.PROP 3,P?" NORTH "
+	.WORD " PLATS-BLOCK "
+	.BYTE 0") 28 ("
+	.PROP 3,P?" EAST "
+	.WORD " EXIT-THRONE-ROOM "
+	.BYTE 0") 26 ("
+	.PROP 3,P?" SOUTH "
+	.WORD " PLATS-BLOCK "
+	.BYTE 0") 24 ("
+	.PROP 3,P?" WEST "
+	.WORD " PLATS-BLOCK "
+	.BYTE 0") 19 ("
+	.PROP 3,P?" OUT "
+	.WORD " EXIT-THRONE-ROOM "
+	.BYTE 0") 16 ("
+	.PROP " 2 ",P?GLOBAL" "
+        .BYTE " "CASTLE" "
+        .BYTE " "ISLE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" HAT-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "HAT") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 5) 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "WIZARD") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" PRINCESS-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "TASMANIA" "
+	W?" "PLATYPUS") 8 ("
+	.PROP " 1 ",P?ADJECTIVE" "
+        .BYTE A?" "PRINCESS")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CROWD-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "ANATINUS" "
+	W?" "PLATYPUS") 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "KING" "
+        .BYTE A?" "OLD" "
+        .BYTE A?" "WHITE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CROWD-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "CROWD")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CASTLE-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "CASTLE" "
+	W?" "PALACE" "
+	W?" "BUILDING" "
+	W?" "ENTRANCE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" CASTLE-JUNK-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "THRONE" "
+	W?" "CHEST" "
+	W?" "SCEPTER" "
+	W?" "FIREPLACE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MAILBOX-F) 18 ("
+	.PROP " 6 ",P?SYNONYM" "
+	W?" "MAILBOX" "
+	W?" "BOX" "
+	W?" "LID") 17 ("
+	.PROP 2,P?" DESCFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" DESCRIBE-MAILBOX) 11 ("
+	.PROP 2,P?" CONTFCN "			; ATOM (CONSTANT) PROPERTY
+
+	" IN-MAILBOX) 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 15) 8 ("
+	.PROP " 3 ",P?ADJECTIVE" "
+        .BYTE A?" "MAIL" "
+        .BYTE A?" "BIG" "
+        .BYTE A?" "LARGE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" SMALL-BOX-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "MAILBOX" "
+	W?" "BOX" "
+	W?" "BOXES" "
+	W?" "LID") 9 ("
+	.PROP 2,P?" CAPACITY "			; INTEGER/CONSTANT PROPERTY
+
+	" 10) 8 ("
+	.PROP " 4 ",P?ADJECTIVE" "
+        .BYTE A?" "MAIL" "
+        .BYTE A?" "SMALL" "
+        .BYTE A?" "LITTLE" "
+        .BYTE A?" "PRIVATE")] 
+[18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "BOOTS" "
+	W?" "PATROL") 8 ("
+	.PROP " 2 ",P?ADJECTIVE" "
+        .BYTE A?" "BOOT" "
+        .BYTE A?" "TALL")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" WISHBRINGER-F) 18 ("
+	.PROP " 8 ",P?SYNONYM" "
+	W?" "WISHBRINGER" "
+	W?" "STONE" "
+	W?" "ROCK" "
+	W?" "LIGHT") 10 ("
+	.PROP 2,P?" SIZE "			; INTEGER/CONSTANT PROPERTY
+
+	" 1) 8 ("
+	.PROP " 5 ",P?ADJECTIVE" "
+        .BYTE A?" "SMALL" "
+        .BYTE A?" "MAGIC" "
+        .BYTE A?" "MAGICK" "
+        .BYTE A?" "GLOWING" "
+        .BYTE A?" "VIOLET") 7 ("
+	.PROP 2,P?" VALUE "			; INTEGER/CONSTANT PROPERTY
+
+	" 5)] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" FLIGHT-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "FLIGHT")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" FREEDOM-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "FREEDOM")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" RAIN-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "RAIN" "
+	W?" "RAINWATER")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" FORESIGHT-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "FORESIGHT")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" LUCK-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "LUCK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" ADVICE-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "ADVICE")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" DARKNESS-F) 18 ("
+	.PROP " 4 ",P?SYNONYM" "
+	W?" "DARKNESS" "
+	W?" "DARK")] 
+[31 ("
+	.PROP 2,P?" ACTION "			; ATOM (CONSTANT) PROPERTY
+
+	" MOON-F) 18 ("
+	.PROP " 2 ",P?SYNONYM" "
+	W?" "MOON")] 

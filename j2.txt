@@ -1,0 +1,134 @@
+Junior-Level Adventure #2
+
+Working Title: DEVILSTONE
+
+Market and Audience
+
+DEVILSTONE is an easy-to-play introduction to interactive fantasies like
+ZORK.  Its goal is to familiarize novices with the conventions and
+traditions of the genre.  Text, plot and puzzles will be geared to the
+comprehension of a bright sixth-grader.
+
+Plot Synopsis
+
+You're an apprentice postal clerk in the sleepy village of Frobton.  As
+another eventless afternoon draws to an end, your boss Mr. Blather hands
+you a special delivery envelope addressed to Ye Olde Magick Shoppe, a
+little-visited establishment on the far side of town.  You obediently
+hop onto your bicycle and pedal through the friendly streets, where you
+are greeted by old neighbors and ritually chased by a poodle.  After
+passing Hoople's Drug Store, the Palace Theater, the Park and other
+familiar landmarks, you cross the little creek at the edge of town and
+climb the steep hill up to the Magick Shoppe.
+
+The Shoppe is a fascinating place full of strange machines, forbidden
+books and fake ice cubes, all presided over by a sad old woman.  She's
+mourning the loss of her beloved pet cat, which disappeared under
+mysterious circumstances a few nights ago.  The letter you are
+delivering turns out to be a ransom note:
+
+"Bring the one true Devilstone to me before the moon sets, or you will
+never see your cat again!"
+
+or words of similar ilk, signed by a dangerous-sounding witch.
+
+The bereaved woman vows never to surrender the Devilstone to anyone, cat
+or no cat, and somehow manages to recruit you for a rescue mission. Your
+only defense against the Evil Witch is to be the Devilstone itself, an
+ordinary-looking pebble said to possess considerable Magick power when
+used according to the instructions provided.
+
+Upon leaving the Shoppe, you discover that the entire town of Frobton
+has been skewed into some kind of alternative reality.  All the
+landmarks and faces have taken on a sinister, larger-than-life aspect:
+
+-- The little creek that used to run around the outskirts is now a dark,
+raging river.  There's only one bridge, and that is guarded by a
+creature which less original scenarios would refer to as a Troll.
+
+-- The poodle that used to chase your bicycle has evolved into a
+Hellhound.  Its appetite for bicylists is unaffected.  Good thing your
+bike changed into a broomstick.
+
+-- The little park in the center of town has become a dense forest full
+of wild beasts, quicksand and other inconveniences.  But it's better
+than walking the streets, which are patrolled by the Witch's Goon Squad.
+
+-- Mr. Hoople's Drug Store and Ice Cream Parlor is now a swarmy tavern
+full of ne'er-do-wells, misfits and troublemakers like yourself.  You
+can buy supplies here that may prove useful in your quest.  But don't
+expect much sympathy from Mr. Hoople, who is a spy for the Evil Witch.
+
+-- The Palace Theater appears to be running a propaganda film called THE
+WITCH IS WATCHING.  A better title might be WATCHING THE WITCH, because
+what you see on the screen corresponds to what the Witch is actually
+doing at that moment -- a good thing to know if you're trying to avoid
+her.
+
+-- The Post Office you used to work in is now the fortresslike lair of
+the Witch.  Those unfortunate enough to visit the witch's Dungeon will
+notice that the Chief Torturer bears a remarkable resemblance to Mr.
+Blather.
+
+Your mission, should you choose to accept it, is to rescue the poor
+little kitty cat without being turned into a furry toilet seat cover or
+a Commodore 64.
+
+Spellcrafting
+
+Unlike ZORK IV and V, it takes more than a magic word to make the
+Devilstone do its thing.  Each of the dozen or so available spells
+requires the player to locate some object or solve a puzzle before the
+miracle can be invoked.  Some silly examples:
+
+-- To "Fly," you must find a feather and wear it in your hair.
+
+-- To "Walk Across Water," you must put white sand in your shoes.
+
+-- To "See Through Walls," you must be holding a lighted candle.
+
+The props you need for each spell are "spelled out" in the Devilstone
+instruction card provided with the game (see below).
+
+Other possibilities include:
+
+-- Spells can be used only a few times, or once.
+
+-- Using the Devilstone helps the Evil Witch find out where you are (a
+"lighthouse" effect a la Tolkien).  This implies that it should be
+possible to solve any problem without using the Stone, thereby rewarding
+clever players with less interference from the Witch.
+
+-- A "panic button" spell that works like an on-line hint service.
+
+Characters
+
+-- Mr. Blather.  He has two cameos, first as your boss at the post
+office and later as a torturer in the witch's Dungeon.
+
+-- The Woman in the Magick Shoppe.  She sounds and acts like a feeble
+old lady, but is sharp enough to get you to do her dirty work.  Like the
+other characters in DEVILSTONE, she talks a lot but doesn't move around
+much, if at all.
+
+-- Various Townspeople.  Amiable enough in Frobton, their New Frobton
+counterparts greet you with warnings, sneers and sharp farming tools.
+Some of them are employed by the Evil Witch as spies and/or goons.
+
+-- The Evil Witch (to be named later).  Impervious to water and falling
+houses.
+
+Package Ideas
+
+-- A small white pebble.
+
+-- Instructions for using the Devilstone.  Instead of a booklet, it
+might be more fun to design a cardboard slide-rule device that lets you
+"dial up" the combination of objects you need to invoke a spell.
+
+-- A sealed special-delivery letter containing the ransom note.
+
+-- Two maps, one for each "version" of Frobton.  It might be possible to
+use a single map with a clever transparent overlay or something.
+
+

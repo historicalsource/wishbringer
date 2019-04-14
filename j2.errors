@@ -1,0 +1,91 @@
+Assembling J2.XZAP.1 on Thursday, June 9, 1988 16:10:47
+Release(last was 70): 70
+
+     0	Inserting J2FREQ.ZAP.4	   (554 bytes)
+   618	Inserting J2DAT.ZAP.1	 (21937 bytes)
+ 22555	Inserting MISC.ZAP.3	  (1626 bytes)
+ 24181	Inserting PARSER.ZAP.3	 (11820 bytes)
+ 36001	Inserting GLOBALS.ZAP.3	  (4087 bytes)
+ 40088	Inserting SYNTAX.ZAP.1	     (0 bytes)
+ 40088	Inserting VERBS.ZAP.3	  (8871 bytes)
+ 48959	Inserting PEOPLE.ZAP.4	 (10770 bytes)
+ 59729	Inserting SOUTH.ZAP.3	  (4495 bytes)
+ 64224	Inserting CENTER.ZAP.3	 (14636 bytes)
+ 78860	Inserting WEST.ZAP.3	  (3848 bytes)
+ 82708	Inserting EAST.ZAP.3	  (4497 bytes)
+ 87205	Inserting NORTH.ZAP.3	   (897 bytes)
+ 88102	Inserting BRIDGE.ZAP.3	  (3739 bytes)
+ 91841	Inserting FOG.ZAP.3	   (964 bytes)
+ 92805	Inserting SHOPPE.ZAP.3	  (5546 bytes)
+ 98351	Inserting CEMETERY.ZAP.3	  (3773 bytes)
+102124	Inserting UNDER.ZAP.3	  (3046 bytes)
+105170	Inserting TOWER.ZAP.3	  (7163 bytes)
+112333	Inserting ISLAND.ZAP.3	  (3262 bytes)
+115595	Inserting BOXES.ZAP.3	  (4159 bytes)
+119754	Inserting MAGICK.ZAP.2	  (3581 bytes)
+123335	Inserting J2STR.ZAP.1	  (4645 bytes)
+
+QUEUED? global undefined:  121906
+GVAL global undefined:  120247
+PT?402 global undefined:  10802
+PT?302 global undefined:  10800
+PT?202 global undefined:  10798
+PT?102 global undefined:  10796
+PT?106 global undefined:  1068
+PT?113 global undefined:  1044
+PT?2602 global undefined:  966
+PT?502 global undefined:  892
+PT?110 global undefined:  726
+PT?619 global undefined:  710
+PT?210 global undefined:  684
+PT?2502 global undefined:  644
+
+
+Symbols unused:
+ZORKID
+FLAGS
+STR?255
+STR?254
+STR?253
+STR?252
+STR?251
+STR?250
+STR?229
+STR?228
+STR?227
+STR?226
+STR?225
+STR?224
+STR?223
+STR?213
+STR?212
+STR?211
+STR?210
+STR?209
+STR?146
+STR?145
+STR?144
+STR?27
+STR?26
+STR?25
+STR?24
+STR?23
+STR?22
+STR?21
+STR?14
+STR?13
+STR?12
+STR?11
+STR?10
+STR?9
+STR?8
+
+253 objects.
+231 globals.
+1045 word vocabulary.
+
+127980 bytes (125K).
+ 22555 bytes of preload.
+ 11712 bytes of impure.
+
+Outputting symbol tables
